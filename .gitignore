@@ -46,3 +46,6 @@ out/
 .gradle/
 build/
 .DS_STORE
+
+### don't add any file with this name to git ###
+**/apikey.properties
